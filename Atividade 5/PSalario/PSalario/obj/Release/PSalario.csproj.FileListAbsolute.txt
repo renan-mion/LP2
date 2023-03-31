@@ -1,0 +1,10 @@
+C:\Users\WIN 10\Downloads\OneDrive_2023-03-28\Atividade 5\PSalario\PSalario\bin\Release\PSalario.exe.config
+C:\Users\WIN 10\Downloads\OneDrive_2023-03-28\Atividade 5\PSalario\PSalario\bin\Release\PSalario.exe
+C:\Users\WIN 10\Downloads\OneDrive_2023-03-28\Atividade 5\PSalario\PSalario\bin\Release\PSalario.pdb
+C:\Users\WIN 10\Downloads\OneDrive_2023-03-28\Atividade 5\PSalario\PSalario\obj\Release\PSalario.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Downloads\OneDrive_2023-03-28\Atividade 5\PSalario\PSalario\obj\Release\PSalario.Form1.resources
+C:\Users\WIN 10\Downloads\OneDrive_2023-03-28\Atividade 5\PSalario\PSalario\obj\Release\PSalario.Properties.Resources.resources
+C:\Users\WIN 10\Downloads\OneDrive_2023-03-28\Atividade 5\PSalario\PSalario\obj\Release\PSalario.csproj.GenerateResource.cache
+C:\Users\WIN 10\Downloads\OneDrive_2023-03-28\Atividade 5\PSalario\PSalario\obj\Release\PSalario.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Downloads\OneDrive_2023-03-28\Atividade 5\PSalario\PSalario\obj\Release\PSalario.exe
+C:\Users\WIN 10\Downloads\OneDrive_2023-03-28\Atividade 5\PSalario\PSalario\obj\Release\PSalario.pdb
