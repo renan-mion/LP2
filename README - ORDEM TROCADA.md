@@ -10,3 +10,4 @@ Correta:
 - Atividade 6: PClasses
 - Atividade 7 e 8: PMenu
 - Atividade 9: PMatrizes
+- Atividade 10: PLacos
